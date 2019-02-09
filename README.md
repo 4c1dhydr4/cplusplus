@@ -1,11 +1,11 @@
 Ejemplo de Menu con múltiples extensiones y opciones.
 
 Recopilatorio de Ejercicios en C++:
--Manipulacion de Bits
--Generacion de Numeros Aleatorios
--Punteros y Referencias
--Archivos
--Recursion
--Metodos de ordenamiento
--Tipos de Datos Abstractos
--Ejemplos Varios
+1. Manipulacion de Bits
+2. Generacion de Numeros Aleatorios
+3. Punteros y Referencias
+4. Archivos
+5. Recursion
+6. Metodos de ordenamiento
+7. Tipos de Datos Abstractos
+8. Ejemplos Varios
